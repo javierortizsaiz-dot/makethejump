@@ -1,0 +1,11 @@
+{
+  "name": "makethejump",
+  "owner": { "name": "Javier Ortiz", "url": "https://makethejump.org" },
+  "plugins": [
+    {
+      "name": "auditoria-web",
+      "source": "./plugins/auditoria-web",
+      "description": "Auditoría web completa con subagentes, benchmark e historias de usuario."
+    }
+  ]
+}

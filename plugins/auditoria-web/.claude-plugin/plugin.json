@@ -1,0 +1,10 @@
+{
+  "name": "auditoria-web",
+  "version": "1.0.0",
+  "description": "Auditoría web completa con subagentes: descubrimiento, arquitectura, WPO, SEO, contenido, estilos, GEO, UX, CRO, analítica, benchmark contra competidores e historias de usuario con criterios de aceptación.",
+  "author": { "name": "Javier Ortiz", "url": "https://makethejump.org" },
+  "homepage": "https://github.com/javierortizsaiz-dot/makethejump/tree/main/plugins/auditoria-web",
+  "repository": "https://github.com/javierortizsaiz-dot/makethejump",
+  "license": "MIT",
+  "keywords": ["seo", "wpo", "cro", "ux", "geo", "analytics", "martech", "audit", "user-stories"]
+}
