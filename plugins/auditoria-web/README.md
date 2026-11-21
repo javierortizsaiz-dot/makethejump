@@ -2,7 +2,7 @@
 
 **Auditoría web completa con subagentes para Claude**: descubrimiento, arquitectura, rendimiento (WPO), SEO técnico, contenido, estilos, GEO, UX y accesibilidad, CRO y analítica. Compara cada tipo de página con los competidores y convierte los hallazgos en **historias de usuario con criterios de aceptación** que se validan volviendo a medir.
 
-[English version](README.en.md) · Autor: [Javier Ortiz](https://makethejump.org) · Licencia MIT
+[English version](README.en.md) · [Post explicativo](https://makethejump.org/es/tendencias/auditoria-web-skill-subagentes/) · Autor: [Javier Ortiz](https://makethejump.org) · Licencia MIT
 
 ![Cómo trabaja auditoria-web](docs/img/proceso-es.png)
 

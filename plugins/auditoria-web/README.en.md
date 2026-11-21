@@ -2,7 +2,7 @@
 
 **A complete website audit with subagents for Claude**: discovery, architecture, performance (WPO), technical SEO, content, styles, GEO, UX and accessibility, CRO and analytics. It compares every page type with competitors and turns findings into **user stories with acceptance criteria** that are validated by measuring again.
 
-[Versión en español](README.md) · Author: [Javier Ortiz](https://makethejump.org) · MIT licence
+[Versión en español](README.md) · [Explainer post](https://makethejump.org/blog/website-audit-skill-subagents/) · Author: [Javier Ortiz](https://makethejump.org) · MIT licence
 
 ![How auditoria-web works](docs/img/proceso-en.png)
 
